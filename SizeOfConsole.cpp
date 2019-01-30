@@ -1,7 +1,7 @@
 #include <iostream>
 #include <windows.h>
 
-int main()
+int main2()
 {
     system("mode 15, 15");
 
